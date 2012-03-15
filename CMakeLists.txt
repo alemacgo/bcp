@@ -7,7 +7,6 @@ find_package(Boost
   COMPONENTS
     conversion
     core
-    detail
     exception
     filesystem
     regex
